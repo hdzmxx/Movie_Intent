@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <array name="negara">
+        <item>Indonesia</item>
+        <item>Thailand</item>
+        <item>Korea</item>
+        <item>Hollywood</item>
+        <item>Bollywood</item>
+    </array>
+</resources>
